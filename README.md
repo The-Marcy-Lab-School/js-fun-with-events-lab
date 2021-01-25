@@ -5,7 +5,7 @@
 For this lab, you'll be recreating [this webpage](https://thuyanduong.github.io/js-events-example/). Experiment and interact with the demo webpage to discover all of its features. You can create and edit any files in this repo in order to implement the same functionality as seen in the demo webpage. 
 
 ## User stories
-1. There is a counter that starts at `0` every time the page is loaded or refreshed. Every 1 second, the number in the counter increases by 1.
+1. There is a counter that starts at `0` every time the page is loaded or refreshed. Every second, the number in the counter increases by 1.
 2. As a user, I can click the `-` button in order to subtract 1 from the counter
 3. As a user, I can click the `+` button in order to add 1 to the counter. 
 4. As a user, I can click on the `pause` button, which will accomplish the following: 
