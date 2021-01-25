@@ -6,7 +6,7 @@ For this lab, you'll be recreating [this webpage](https://thuyanduong.github.io/
 
 ## User stories
 1. There is a counter that starts at `0` every time the page is loaded or refreshed. Every second, the number in the counter increases by 1.
-2. As a user, I can click the `-` button in order to subtract 1 from the counter
+2. As a user, I can click the `-` button in order to subtract 1 from the counter.
 3. As a user, I can click the `+` button in order to add 1 to the counter. 
 4. As a user, I can click on the `pause` button, which will accomplish the following: 
   - The counter on the page will no longer increment every second.
@@ -19,7 +19,7 @@ For this lab, you'll be recreating [this webpage](https://thuyanduong.github.io/
 6. As a user, I can type something in the comment input, and when I submit the form, a new `<p>` tag will be added inside the `#list.comments` div without the page refreshing.
 
 #### Bonus
-1. As a user, I can click on the ❤️ button in order to "like" the number displayed in the counter. The liked numbers appear as an `<li>` in the unordered list along side how many times that number was liked. 
+1. As a user, I can click on the ❤️  button in order to "like" the number displayed in the counter. The liked numbers appear as an `<li>` in the unordered list along side how many times that number was liked. 
 
 ## Directions
 
