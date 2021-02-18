@@ -17,9 +17,7 @@ For this lab, you'll be recreating [this webpage](https://thuyanduong.github.io/
   - All other buttons on the page are no longer disabled.
   - The text in the `resume` button changes back to `pause`.
 6. As a user, I can type something in the comment input, and when I submit the form, a new `<p>` tag will be added inside the `#list.comments` div without the page refreshing.
-
-#### Bonus
-1. Create a "Like" button. As a user, I can click on this button in order to "like" the number currently displayed in the counter. The liked numbers appear as an `<li>` in an unordered list along side how many times that number was liked. 
+7. Create a "Like" button. As a user, I can click on the LIke button in order to "like" the number currently displayed in the counter. The liked numbers appears as an `<li>` in an unordered list along side how many times that number was liked. 
 
 ## Directions
 
