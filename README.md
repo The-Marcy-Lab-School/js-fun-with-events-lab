@@ -13,13 +13,13 @@ For this lab, you'll be recreating [this webpage](https://thuyanduong.github.io/
 
 ## Bonus Challenge (Pause Feature)
 6. As a user, I can click on the `pause` button, which will accomplish the following: 
-  - The counter on the page will no longer increment every second.
-  - All other buttons on the page should be disabled.
-  - The text in the `pause` button changes to `resume`.
+    - The counter on the page will no longer increment every second.
+    - All other buttons on the page should be disabled.
+    - The text in the `pause` button changes to `resume`.
 7. As a user, while the counter is paused, I can click on the `resume` button, which will accomplish the following: 
-  - The counter on the page will increment by 1 every second.
-  - All other buttons on the page are no longer disabled.
-  - The text in the `resume` button changes back to `pause`.
+    - The counter on the page will increment by 1 every second.
+    - All other buttons on the page are no longer disabled.
+    - The text in the `resume` button changes back to `pause`.
 
 ## Directions
 
