@@ -11,7 +11,7 @@ For this lab, you'll be recreating [this webpage](https://thuyanduong.github.io/
 4. As a user, I can type something in the comment input, and when I submit the form, a new `<p>` tag will be added inside the `#list.comments` div without the page refreshing.
 5. As a user, I can click on the Like button in order to "like" the number currently displayed in the counter. The liked numbers appears as an `<li>` in an unordered list along side how many times that number was liked. **Hint:** For this feature, it might helpful to create an object in your JavaScript file to keep track of how many times a number was liked
 
-## Bonus Challenge (Pause Feature)
+## Bonus Challenge (Pause/Resume Feature)
 6. As a user, I can click on the `pause` button, which will accomplish the following: 
     - The counter on the page will no longer increment every second.
     - All other buttons on the page should be disabled.
